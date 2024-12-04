@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka
-- 👀 I’m interested in data analysis, visualization, preprocessing, and other data related work.
-- 🌱 I’m currently learning MS Azure, some tools related to data engineering and analysis.
+- 👀 I’m interested in data engineering, data analysis, visualization, preprocessing, and other data related work.
+- 🌱 I’m working as Data Engineer & Data Analyst.
 - 💞️ I’m looking to collaborate on any project depending on my interest.
 - 📫 How to reach me nahidanushka@gmail.com
 
